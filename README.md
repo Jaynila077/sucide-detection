@@ -1,5 +1,7 @@
 # sucide-detection
-Sucide detector for a Mentat Health Chatbot
+Sucide detector for a Mentat Health Chatbot.
+This is NLP based model trained on dataset gathered from different
+subreddits 
 
 
 ### Dataset and h5 files
